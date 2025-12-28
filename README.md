@@ -1,4 +1,5 @@
 # Python Data Cleaning (Beginner Project)
+![status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 🧹 Overview
 This beginner-level project focuses on loading, cleaning, and transforming a simple dataset using Python and Pandas. It demonstrates basic data wrangling techniques that are foundational to data analytics and engineering workflows.
